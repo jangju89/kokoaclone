@@ -1,3 +1,3 @@
 #kokoa clone
 
-It is too hard
+HTML and CSS are so much fun!
